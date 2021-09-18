@@ -8,5 +8,6 @@ As implementações foram desenvolvidas em Python e utilizando a biblioteca [Net
 
 1. [Apresentação da biblioteca](01_ApresentacaoDaBiblioteca.ipynb)
 2. [Algoritmos de Busca](02_AlgoritmosDeBusca.ipynb)
+3. [Caminhos](03_Caminhos.ipynb)
 
 
