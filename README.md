@@ -10,5 +10,6 @@ As implementações foram desenvolvidas em Python e utilizando a biblioteca [Net
 2. [Algoritmos de Busca](02_AlgoritmosDeBusca.ipynb)
 3. [Caminhos](03_Caminhos.ipynb)
 4. [Árvores](04_Árvores.ipynb)
+5. [Coloração](05_Coloração.ipynb)
 
 
